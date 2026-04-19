@@ -6,3 +6,9 @@ Page Replacement Algorithm Simulator (FIFO, LRU, Optimal, LIFO)
 - Step-by-step visualization
 - Graph analysis using Chart.js
 - AI-based algorithm suggestion
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Chart.js
